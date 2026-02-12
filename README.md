@@ -6,7 +6,7 @@
 - [Shop](https://www.mekanika.io/en/store/be/fab/)
 - [Contact](https://www.mekanika.io/contact-us/)
 
-![Fab CNC Milling Machine]([https://support.mekanika.io/pages/01.products/04.worktable-wkt/worktable-01.jpg](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FFab%20-%20Studio%20-%203-01JM1W9XGZSZ7D3AD8W2CGNTN6.jpg&w=1080&q=90)
+![Fab CNC Milling Machine](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FFab%20-%20Studio%20-%203-01JM1W9XGZSZ7D3AD8W2CGNTN6.jpg&w=1080&q=90)
 
 ## Repository Structure
 
