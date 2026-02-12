@@ -1,0 +1,265 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01424,Fab,1.00,,,True
+1,M00964,FAB - A - Main Box 1/2,1.00,M01424,Fab,True
+2,M00230,FAB - Control Unit,1.00,M00964,FAB - A - Main Box 1/2,True
+3,M00279,CNC Fab - Steel Parts - Control Unit Base,1.00,M00230,FAB - Control Unit,False
+3,M00280,CNC Fab - Steel Parts - Control Unit Cover,1.00,M00230,FAB - Control Unit,False
+3,M00367,CNC USB Controller Mk3/4,1.00,M00230,FAB - Control Unit,False
+3,M00368,CNC USB Controller license,1.00,M00230,FAB - Control Unit,False
+3,M00712,Optocoupler 4 channels,1.00,M00230,FAB - Control Unit,False
+3,M00663,MicroSD 32GB Samsung Evo+,1.00,M00230,FAB - Control Unit,False
+3,M00748,SMPS 1500W 72V 20A (CNC Fab),1.00,M00230,FAB - Control Unit,False
+3,M00931,SMPS 60W 24V 2.8A (CNC Pro/Fab),1.00,M00230,FAB - Control Unit,False
+3,M00853,USB-C 24V to 5V 3A converter,1.00,M00230,FAB - Control Unit,False
+3,M00502,"Ethernet RJ45 female 50cm, panel mount",1.00,M00230,FAB - Control Unit,False
+3,M00542,HDMI (female) panel mount to micro HDMI (male),1.00,M00230,FAB - Control Unit,False
+3,M00619,PRO/FAB - Limit Switches PCB Assembly,1.00,M00230,FAB - Control Unit,True
+4,M00714,PCB Custom for CNC Limit Switches,1.00,M00619,PRO/FAB - Limit Switches PCB Assembly,False
+4,M00841,"ALL - Tapped XLR 3 pole female panel, vertical PCB",6.00,M00619,PRO/FAB - Limit Switches PCB Assembly,True
+5,M00917,"XLR 3 pole female panel, vertical PCB",6.00,M00841,"ALL - Tapped XLR 3 pole female panel, vertical PCB",False
+4,M00790,Screw 2 Way PCB Terminal Block 5mm Pitch,1.00,M00619,PRO/FAB - Limit Switches PCB Assembly,False
+4,M00791,Screwless 4 Way PCB Terminal Block 3.5mm Pitch,1.00,M00619,PRO/FAB - Limit Switches PCB Assembly,False
+3,M00536,"GX12 male 2 pins aux 45cm, panel mount (Emergency Button)",1.00,M00230,FAB - Control Unit,False
+3,M01077,"GX12 male 3 pins aux 45cm, panel mount (Probe)",1.00,M00230,FAB - Control Unit,False
+3,M00852,"USB-A male to A female panel mount, 30cm",2.00,M00230,FAB - Control Unit,False
+3,M01392,"USB-A male to A female panel mount, 50cm, Blue (FAB)",1.00,M00230,FAB - Control Unit,False
+3,M00074,"Axial Fan 24V 92x92mm, panel mount",1.00,M00230,FAB - Control Unit,False
+3,M00515,Fan cover 92mm,1.00,M00230,FAB - Control Unit,False
+3,M00865,Wago 3 connectors,5.00,M00230,FAB - Control Unit,False
+3,M00866,Wago 5 connectors,4.00,M00230,FAB - Control Unit,False
+3,M00746,Rubber foot M4,4.00,M00230,FAB - Control Unit,False
+3,M00837,TFHC M4x35 Black screw,4.00,M00230,FAB - Control Unit,False
+3,M01715,ISO 7380 M3x4 Black Screw,40.00,M00230,FAB - Control Unit,False
+3,M00552,Hex spacer M3x30 female/female,2.00,M00230,FAB - Control Unit,False
+3,M00553,Hex spacer M3x8 female/female,8.00,M00230,FAB - Control Unit,False
+3,M01693,ISO 7380 M3x10 Black Screw,12.00,M00230,FAB - Control Unit,False
+3,M01702,Nut DIN934 M4,20.00,M00230,FAB - Control Unit,False
+3,M00739,Raspberry Pi 4B 2G,1.00,M00230,FAB - Control Unit,False
+3,M01697,DIN912 M4x12 Black screw,16.00,M00230,FAB - Control Unit,False
+3,M00540,"GX12 male 5 pins output 45cm, panel mount (VFD, Laser)",2.00,M00230,FAB - Control Unit,False
+3,M00537,"GX12 male 2 pins aux 45cm, panel mount (Safety Enclosure)",2.00,M00230,FAB - Control Unit,False
+3,M00918,"XLR 4 pole female panel M3, Pre-wired 18cm breakout",4.00,M00230,FAB - Control Unit,False
+3,M01070,Insulated Crimp Bootlace Ferrule,4.00,M00230,FAB - Control Unit,False
+3,M01729,"Dust Filter Mesh (""M""), 7cmx7cmx0.375mm, 0.5mm aperture",1.00,M00230,FAB - Control Unit,False
+3,M00107,C14 Panel Mount 10A fuse,1.00,M00230,FAB - Control Unit,False
+3,M00530,Fuse T slow 10A,1.00,M00230,FAB - Control Unit,False
+3,M00744,"Rocker switch DPST, panel mount",1.00,M00230,FAB - Control Unit,False
+3,M00688,Motor Driver 2DM860H - FAB,4.00,M00230,FAB - Control Unit,False
+3,M00851,USB-A USB-B cable 30cm Elbow type,1.00,M00230,FAB - Control Unit,False
+3,M00407,Coloured Washer M3 - Blue,2.00,M00230,FAB - Control Unit,False
+3,M00408,Coloured Washer M3 - Green,3.00,M00230,FAB - Control Unit,False
+3,M00409,Coloured Washer M3 - Red,3.00,M00230,FAB - Control Unit,False
+3,M00410,Coloured Washer M3 - Yellow,2.00,M00230,FAB - Control Unit,False
+3,M00718,PWM to Analog Voltage Converter 0-10V,1.00,M00230,FAB - Control Unit,False
+3,M00984,Female Banana Socket - Tab Termination,1.00,M00230,FAB - Control Unit,False
+2,M00268,FAB - Mechanical Elements Box (2/3) - Motors,1.00,M00964,FAB - A - Main Box 1/2,True
+3,M00698,FAB - Nema34 Motor,3.00,M00268,FAB - Mechanical Elements Box (2/3) - Motors,True
+4,M00699,Nema34 Stepper Motor 6A 12.7mm Shaft,3.00,M00698,FAB - Nema34 Motor,False
+4,M00919,XLR4 Male - NC4MXX-BAG,3.00,M00698,FAB - Nema34 Motor,False
+3,M00696,ALL - Nema23 Motor,1.00,M00268,FAB - Mechanical Elements Box (2/3) - Motors,True
+4,M00697,Nema23 Stepper Motor 5A 6.35mm Shaft,1.00,M00696,ALL - Nema23 Motor,False
+4,M00660,Micro-Fit 3.0 Male Connector Housing,1.00,M00696,ALL - Nema23 Motor,False
+4,M00662,Micro-Fit Male Crimp Terminal Contact,4.00,M00696,ALL - Nema23 Motor,False
+3,M01685,FAB - Pinion v2 - 2M Z15 80T,2.00,M00268,FAB - Mechanical Elements Box (2/3) - Motors,False
+3,M00085,FAB - Belt HTD-5M Bag - 15mm 475mm / 95 Teeth,1.00,M00268,FAB - Mechanical Elements Box (2/3) - Motors,True
+4,M00084,Belt HTD-5M 15mm 475mm / 95 teeth,2.00,M00085,FAB - Belt HTD-5M Bag - 15mm 475mm / 95 Teeth,False
+3,M00102,"FAB - Brush FBL0706 20mm, 250mm length",2.00,M00268,FAB - Mechanical Elements Box (2/3) - Motors,True
+4,M00947,Brush FBL0706 20mm (m),0.50,M00102,"FAB - Brush FBL0706 20mm, 250mm length",False
+2,M00823,Square Plate - First CNC Test,1.00,M00964,FAB - A - Main Box 1/2,False
+1,M00965,FAB - B - Main Box 2/2,1.00,M01424,Fab,True
+2,M00254,FAB - Electronic Components box - FAB-B-1,1.00,M00965,FAB - B - Main Box 2/2,True
+3,M01068,FAB - Motor Cables,1.00,M00254,FAB - Electronic Components box - FAB-B-1,True
+4,M00271,FAB - BELRAM lot of Motor Cables,1.00,M01068,FAB - Motor Cables,True
+5,M00691,"Motor cable X 340cm, Red (Fab)",1.00,M00271,FAB - BELRAM lot of Motor Cables,False
+5,M00692,"Motor cable Y1 340cm, Green (Fab)",1.00,M00271,FAB - BELRAM lot of Motor Cables,False
+5,M00693,"Motor cable Y2 530cm, Yellow (Fab)",1.00,M00271,FAB - BELRAM lot of Motor Cables,False
+5,M00694,"Motor cable Z 570cm, Blue (Fab)",1.00,M00271,FAB - BELRAM lot of Motor Cables,False
+4,M00973,"Cable Tie 368mm x 4.8 mm, White",1.00,M01068,FAB - Motor Cables,False
+4,M00659,Micro-Fit 3.0 Female Connector Housing,4.00,M01068,FAB - Motor Cables,False
+4,M00661,Micro-Fit Female Crimp Terminal Contact,14.00,M01068,FAB - Motor Cables,False
+3,M00262,FAB - Inductive Sensor Cables,1.00,M00254,FAB - Electronic Components box - FAB-B-1,True
+4,M01002,CNC Fab - Belram lot of Sensor Cables,1.00,M00262,FAB - Inductive Sensor Cables,False
+4,M00599,Inductive sensor cable Y1- 180cm Green (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00593,Inductive sensor cable Unterminated 180cm,1.00,M00599,Inductive sensor cable Y1- 180cm Green (Fab),False
+4,M00598,Inductive sensor cable Y1+ 330cm Green (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00570,Inductive Sensor Cable Unterminated 330cm,1.00,M00598,Inductive sensor cable Y1+ 330cm Green (Fab),False
+4,M00600,Inductive sensor cable Y2- 270cm Yellow (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00594,Inductive sensor cable Unterminated 270cm,1.00,M00600,Inductive sensor cable Y2- 270cm Yellow (Fab),False
+4,M00597,Inductive sensor cable X- 350cm Red (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00571,Inductive Sensor Cable Unterminated 350cm,1.00,M00597,Inductive sensor cable X- 350cm Red (Fab),False
+4,M00596,Inductive sensor cable X+ 530cm Red (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00592,Inductive sensor cable Unterminated 530cm,1.00,M00596,Inductive sensor cable X+ 530cm Red (Fab),False
+4,M00601,Inductive sensor cable Z+ 580cm Blue (Fab),1.00,M00262,FAB - Inductive Sensor Cables,True
+5,M00595,Inductive sensor cable Unterminated 580cm,1.00,M00601,Inductive sensor cable Z+ 580cm Blue (Fab),False
+4,M00973,"Cable Tie 368mm x 4.8 mm, White",1.00,M00262,FAB - Inductive Sensor Cables,False
+3,M00726,"Power Distribution Unit 4-Way, 16A, 4000W",1.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M00007,"Power Cable C13 IEC to CEE 7/4, Schuko, 2m, 10 A, 250 V",1.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M00591,"Inductive Sensor PNP NC, M12",6.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M01078,Touch Probe Z Device (3-pins model),1.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M00482,Emergency Stop Button 1NC,1.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M00848,USB Key 2Gb,1.00,M00254,FAB - Electronic Components box - FAB-B-1,False
+3,M00417,ALL - Control Unit Safety Grounding Cable,1.00,M00254,FAB - Electronic Components box - FAB-B-1,True
+4,M00609,"Insulated Ring Terminal 0.5mm² to 1.5mm², 22AWG to 16AWG, M4 Stud Size",1.00,M00417,ALL - Control Unit Safety Grounding Cable,False
+4,M00086,"Black Male Banana Connector - Screw Termination, 50V, 16A",1.00,M00417,ALL - Control Unit Safety Grounding Cable,False
+3,M00384,ALL - Cable Cover for I-type 6 Profile 330mm,2.00,M00254,FAB - Electronic Components box - FAB-B-1,True
+4,M00383,Cable Cover for I-type 6 Profile (2m),0.34,M00384,ALL - Cable Cover for I-type 6 Profile 330mm,False
+2,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),1.00,M00965,FAB - B - Main Box 2/2,True
+3,M00234,FAB - DIN912 Black Screw Bag - M4x12,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01697,DIN912 M4x12 Black screw,14.00,M00234,FAB - DIN912 Black Screw Bag - M4x12,False
+3,M00235,FAB - DIN912 Black Screw Bag - M4x20,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00430,DIN912 M4x20 Black screw,4.00,M00235,FAB - DIN912 Black Screw Bag - M4x20,False
+3,M00940,FAB - DIN912 Black Screw Bag - M4x30,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00939,DIN912 M4x30 Black screw,8.00,M00940,FAB - DIN912 Black Screw Bag - M4x30,False
+3,M00236,FAB - DIN912 Black Screw Bag - M4x45,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00432,DIN912 M4x45 Black Screw,4.00,M00236,FAB - DIN912 Black Screw Bag - M4x45,False
+3,M00237,FAB - DIN912 Black Screw Bag - M4x55,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00433,DIN912 M4x55 Black Screw,8.00,M00237,FAB - DIN912 Black Screw Bag - M4x55,False
+3,M00238,FAB - DIN912 Black Screw Bag - M5x14,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00436,DIN912 M5x14 Black screw,8.00,M00238,FAB - DIN912 Black Screw Bag - M5x14,False
+3,M00239,FAB - DIN912 Black Screw Bag - M5x16,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00437,DIN912 M5x16 Black screw,190.00,M00239,FAB - DIN912 Black Screw Bag - M5x16,False
+3,M00240,FAB - DIN912 Black Screw Bag - M5x20,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01731,DIN912 M5x20 Black screw,12.00,M00240,FAB - DIN912 Black Screw Bag - M5x20,False
+3,M00241,FAB - DIN912 Black Screw Bag - M5x25,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00439,DIN912 M5x25 Black screw,8.00,M00241,FAB - DIN912 Black Screw Bag - M5x25,False
+3,M00242,FAB - DIN912 Black Screw Bag - M5x40,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00442,DIN912 M5x40 Black screw,4.00,M00242,FAB - DIN912 Black Screw Bag - M5x40,False
+3,M00243,FAB - DIN912 Black Screw Bag - M5x50,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00444,DIN912 M5x50 Black screw,4.00,M00243,FAB - DIN912 Black Screw Bag - M5x50,False
+3,M00244,FAB - DIN912 Black Screw Bag - M5x60,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00445,DIN912 M5x60 Black screw,4.00,M00244,FAB - DIN912 Black Screw Bag - M5x60,False
+3,M00245,FAB - DIN912 Black Screw Bag - M6x12,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01718,DIN912 M6x12 Black screw,14.00,M00245,FAB - DIN912 Black Screw Bag - M6x12,False
+3,M00246,FAB - DIN912 Black Screw Bag - M6x16,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01704,DIN912 M6x16 Black screw,318.00,M00246,FAB - DIN912 Black Screw Bag - M6x16,False
+3,M00247,FAB - DIN912 Black Screw Bag - M6x20,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00451,DIN912 M6x20 Black screw,66.00,M00247,FAB - DIN912 Black Screw Bag - M6x20,False
+3,M00248,FAB - DIN912 Black Screw Bag - M6x25,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01748,DIN912 M6x25 Black screw,60.00,M00248,FAB - DIN912 Black Screw Bag - M6x25,False
+3,M00258,FAB - ISO 7380 Black Screw Bag - M5x20,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00566,ISO 7380 M5x20 Black Screw,4.00,M00258,FAB - ISO 7380 Black Screw Bag - M5x20,False
+3,M00259,FAB - ISO 7380 Black Screw Bag - M6x25,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00568,ISO 7380 M6x25 Black Screw,8.00,M00259,FAB - ISO 7380 Black Screw Bag - M6x25,False
+3,M00261,FAB - ISO7379 Shoulder Screw Bag -10X45/M8,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00560,ISO 7379 M8x45 Shoulder Screw,2.00,M00261,FAB - ISO7379 Shoulder Screw Bag -10X45/M8,False
+3,M00260,FAB - ISO7379 Shoulder Screw Bag - 12X50/M10,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00561,ISO 7379 M10x50 Shoulder Screw,2.00,M00260,FAB - ISO7379 Shoulder Screw Bag - 12X50/M10,False
+3,M00231,FAB - DIN9021 Washer Bag - M4x12,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00423,DIN9021 Washer M4x12,14.00,M00231,FAB - DIN9021 Washer Bag - M4x12,False
+3,M00232,FAB - DIN9021 Washer Bag - M5x15,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00424,DIN9021 Washer M5x15,6.00,M00232,FAB - DIN9021 Washer Bag - M5x15,False
+3,M00233,FAB - DIN9021 Washer Bag - M6x18,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01694,DIN9021 Washer M6x18,276.00,M00233,FAB - DIN9021 Washer Bag - M6x18,False
+3,M00250,FAB - DIN985 Lock Nut Bag - M4,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00629,Lock Nut DIN985 M4,24.00,M00250,FAB - DIN985 Lock Nut Bag - M4,False
+3,M00251,FAB - DIN985 Lock Nut Bag - M5,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00632,Lock Nut DIN985 M5,20.00,M00251,FAB - DIN985 Lock Nut Bag - M5,False
+3,M00252,FAB - DIN985 Lock Nut Bag - M6,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00630,Lock Nut DIN985 M6,14.00,M00252,FAB - DIN985 Lock Nut Bag - M6,False
+3,M00249,FAB - DIN985 Lock Nut Bag - M10,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00627,Lock Nut DIN985 M10,2.00,M00249,FAB - DIN985 Lock Nut Bag - M10,False
+3,M00265,FAB - Spacer Bag - M5x6,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00798,Spacer M5x6mm,2.00,M00265,FAB - Spacer Bag - M5x6,False
+3,M00263,FAB - Spacer Bag - M5x19,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00795,Spacer M5x19mm,8.00,M00263,FAB - Spacer Bag - M5x19,False
+3,M00264,FAB - Spacer Bag - M5x30,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00796,Spacer M5x30mm,12.00,M00264,FAB - Spacer Bag - M5x30,False
+3,M00266,FAB - Spacer Bag - M6x90,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00800,Spacer M6x90mm,2.00,M00266,FAB - Spacer Bag - M6x90,False
+3,M00255,FAB - I-Type Sliding Nut Bag - M4,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00554,I-Type Sliding Nut M4,14.00,M00255,FAB - I-Type Sliding Nut Bag - M4,False
+3,M00256,FAB - I-Type Sliding Nut Bag - M5,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00555,I-Type Sliding Nut M5,158.00,M00256,FAB - I-Type Sliding Nut Bag - M5,False
+3,M00291,FAB - V-Wheels Bag - M5,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00882,Wheel with Bearings for V-slot Profile - Type B,4.00,M00291,FAB - V-Wheels Bag - M5,False
+3,M00253,FAB - DIN985 Lock Nut Bag - M8,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00631,Lock Nut DIN985 M8,2.00,M00253,FAB - DIN985 Lock Nut Bag - M8,False
+3,M00955,FAB - DIN439B JamNut Bag - M8,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00613,JamNut DIN439B M8,18.00,M00955,FAB - DIN439B JamNut Bag - M8,False
+3,M00966,CNC Fab - Mounting gauge MDF (Frame),2.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),False
+3,M01550,Cable Trunking Screws Bag,2.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00423,DIN9021 Washer M4x12,10.00,M01550,Cable Trunking Screws Bag,False
+4,M01697,DIN912 M4x12 Black screw,10.00,M01550,Cable Trunking Screws Bag,False
+4,M00554,I-Type Sliding Nut M4,10.00,M01550,Cable Trunking Screws Bag,False
+3,M00257,FAB - I-Type Sliding Nut Bag - M6,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00556,I-Type Sliding Nut M6,368.00,M00257,FAB - I-Type Sliding Nut Bag - M6,False
+3,M00273,FAB - Offset Spacer Bag - 10x14x12,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M00708,Offset spacer 10x14x12mm,2.00,M00273,FAB - Offset Spacer Bag - 10x14x12,False
+3,M01686,FAB - Pinion v2 - Spacer A (12x16x4) Bag,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01690,Spacer -12x16x3,2.00,M01686,FAB - Pinion v2 - Spacer A (12x16x4) Bag,False
+3,M01687,FAB - Pinion v2 - Spacer B (12x18x8) Bag,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01691,Spacer - 12x18x8,2.00,M01687,FAB - Pinion v2 - Spacer B (12x18x8) Bag,False
+3,M01688,FAB- Pinion v2 - Spacer C (12x18x18) Bag,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01692,Spacer - 12x18x18,2.00,M01688,FAB- Pinion v2 - Spacer C (12x18x18) Bag,False
+3,M01549,CUB Brackets Bag,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01379,CU-VFD-Mounting plate 3mm,4.00,M01549,CUB Brackets Bag,False
+4,M00435,DIN912 M5x12 Black screw,10.00,M01549,CUB Brackets Bag,False
+4,M00746,Rubber foot M4,2.00,M01549,CUB Brackets Bag,False
+4,M00555,I-Type Sliding Nut M5,10.00,M01549,CUB Brackets Bag,False
+3,M01545,Cable Management Bag,1.00,M00267,FAB - Mechanical Elements Box - FAB-B-2 (Screws & Nuts),True
+4,M01551,SPT - Cable Holder 3d Print,18.00,M01545,Cable Management Bag,False
+4,M00389,Cable Tie 100mm x 2.5 mm,28.00,M01545,Cable Management Bag,False
+2,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),1.00,M00965,FAB - B - Main Box 2/2,True
+3,M00864,VariBox CHV27 34x26x15 simple cannelure,1.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),False
+3,M00063,Angle Bracket 60 B-Type Groove 8,46.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),False
+3,M00524,Foot D80 M12x50 + Jam nut M12 + Anti Slip,6.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),False
+3,M00488,End connection plate 30x60 for Foot M12,6.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),False
+3,M00064,Angle Bracket Simple 20x20 M5,4.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),False
+3,M01329,FAB - Angle Bracket 30 B-Type Bag,1.00,M00269,FAB - Mechanical Elements Box - FAB-B-3 (Feet & Brackets),True
+4,M00062,Angle Bracket 30 B-Type Rainure 6,38.00,M01329,FAB - Angle Bracket 30 B-Type Bag,False
+2,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),1.00,M00965,FAB - B - Main Box 2/2,True
+3,M00621,Linear Block - H20B,6.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),False
+3,M00622,Linear Block - W20A Block (Flange),4.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),False
+3,M00704,Nut Housing DSG16H,2.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),False
+3,M00511,FF12 Bearing Support,6.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),False
+3,M00512,FK12 Bearing Support,2.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),False
+3,M00270,FAB - Miscellaneous Components Bag,1.00,M01058,FAB - Mechanical Box - FAB-B-4 (Motion & Miscellaneous Components),True
+4,M00078,Ball Bearing 6301-2RS 12x37x12mm,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00364,CNC Pro/Fab - Steels Parts - Bearing Support Offset Plate,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00390,"Cable Tie 200mm x 4.6 mm, Black",18.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00411,Compression Spring 14.5x9.6x1.6mm,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00518,Flexible Motor Coupler D25L30 - 6.35mm to 10mm,1.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00519,Flexible Motor Coupler D30L40 - 12.7mm/5ky to 10mm,1.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00733,Pulley HTD-5M 16mm 20 teeth,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00745,Rubber Bump M8x68,6.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00354,CNC Pro/Fab - Steel Parts - Nut Offset,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00827,Steel cable tray cantilever arm,2.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M00967,CNC Fab - Mounting gauge Plywood (Rails),1.00,M00270,FAB - Miscellaneous Components Bag,False
+4,M01683,FAB - Acrylic Mounting Gauge (Limits & coupler),1.00,M00270,FAB - Miscellaneous Components Bag,True
+5,M00716,"PMMA Sheet 3mm 600x400mm, Light Blue",0.02,M01683,FAB - Acrylic Mounting Gauge (Limits & coupler),False
+4,M01684,FAB- Pinion v2 - Ball Bearing 6801-ZZ - 12x21x5mm,2.00,M00270,FAB - Miscellaneous Components Bag,False
+1,M00286,FAB - C - Steel Parts Box 1/2,1.00,M01424,Fab,True
+2,M00283,CNC Fab - Steel Parts - R&P drive plate,2.00,M00286,FAB - C - Steel Parts Box 1/2,False
+2,M00284,CNC Fab - Steel Parts - Y gantry,2.00,M00286,FAB - C - Steel Parts Box 1/2,False
+2,M00282,CNC Fab - Steel Parts - Limit sensor support plate,4.00,M00286,FAB - C - Steel Parts Box 1/2,False
+1,M00287,FAB - D - Steel Parts Box 2/2,1.00,M01424,Fab,True
+2,M00281,CNC Fab - Steel Parts - Gusset plate,12.00,M00287,FAB - D - Steel Parts Box 2/2,False
+2,M00359,CNC Pro/Fab - Steel Parts - Z-axis Top Motor Plate,1.00,M00287,FAB - D - Steel Parts Box 2/2,False
+2,M00358,CNC Pro/Fab - Steel Parts - Z-Axis Bottom Bearing Plate,1.00,M00287,FAB - D - Steel Parts Box 2/2,False
+2,M00360,CNC Pro/Fab - Steel Parts - X Nut,1.00,M00287,FAB - D - Steel Parts Box 2/2,False
+2,M00361,CNC Pro/Fab - Steel Parts - Z Plate,1.00,M00287,FAB - D - Steel Parts Box 2/2,False
+2,M00285,CNC Fab - Steel Parts - Y gantry back plate,1.00,M00287,FAB - D - Steel Parts Box 2/2,False
+1,M00288,FAB - E - Structure Box 1/3,1.00,M01424,Fab,True
+2,M00055,Alu Profile V-3030 (240mm) [1x M6 thread on BOTH sides],2.00,M00288,FAB - E - Structure Box 1/3,False
+2,M00081,Ballscrew SFU1605 250mm & Nut,1.00,M00288,FAB - E - Structure Box 1/3,False
+2,M00624,Linear Rail HGR20 (200mm),2.00,M00288,FAB - E - Structure Box 1/3,False
+2,M00059,Alu profile I-6030 (1410mm),9.00,M00288,FAB - E - Structure Box 1/3,False
+1,M00289,FAB - F - Structure Box 2/3,1.00,M01424,Fab,True
+2,M00060,Alu profile I-6060 (1410mm),6.00,M00289,FAB - F - Structure Box 2/3,False
+2,M00930,Alu Profile I-6030 (600mm) [2x M6 threads on BOTH sides],6.00,M00289,FAB - F - Structure Box 2/3,False
+2,M00956,Cable Trunking D31mm L500mm,3.00,M00289,FAB - F - Structure Box 2/3,False
+1,M00290,FAB - G - Structure Box 3/3,1.00,M01424,Fab,True
+2,M00058,Alu profile I-30120 (1530mm) [4x M6 threads on ONE side],4.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00061,Alu profile I-6060 (1530mm) [4x M6 threads on BOTH sides],2.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00391,Cable chain TEZ25.50K 1200mm,1.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00392,Cable chain TEZ25.50K 1800mm,1.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00826,FAB - Steel cable tray 3000mm (2x1500mm),1.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00278,CNC Fab - Steel Parts - Cable chain holder,4.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00080,Ballscrew SFS1620 1500mm & nut,1.00,M00290,FAB - G - Structure Box 3/3,False
+2,M00103,"FAB - Brush FBL0706 30mm, 1500mm length",4.00,M00290,FAB - G - Structure Box 3/3,True
+3,M00948,Brush FBL0706 30mm (m),6.00,M00103,"FAB - Brush FBL0706 30mm, 1500mm length",False
+1,M00946,FAB - H - Linear rail HGR20 1500mm Box,1.00,M01424,Fab,True
+2,M00626,Linear rail HGR20 (1500mm) - Docking,6.00,M00946,FAB - H - Linear rail HGR20 1500mm Box,False
+1,M00945,FAB - I - Straight Rack M2 Box,1.00,M01424,Fab,True
+2,M00831,Straight Rack M2 DIN5 1005.31mm,6.00,M00945,FAB - I - Straight Rack M2 Box,False
+2,M00832,Straight rack gauge M2 Q6 500mm,1.00,M00945,FAB - I - Straight Rack M2 Box,False
